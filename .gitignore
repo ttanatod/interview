@@ -1,0 +1,8 @@
+# backend
+gomon_spawn
+.env
+storage_secret.json
+
+# front end 
+node_modules/
+.next
